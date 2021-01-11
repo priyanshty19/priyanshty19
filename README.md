@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence, Web Development and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Photography and Music as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion about advancements in technology.\
-✉️ &nbsp;You can contact me via an email at priyansht1999@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can contact me via email at priyansht1999@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stacks
 
