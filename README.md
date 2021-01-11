@@ -5,7 +5,7 @@
 
 💡  &nbsp;I have always been obsessed with the idea of using software to solve practical problems\
 🎓 &nbsp;I'm an Engineering Physics Sophomore at Delhi Technological University.\
-🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence, Wed Development and Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence, Web Development and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Photography and Music as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion about advancements in technology.\
 ✉️ &nbsp;You can contact me via an email at priyansht1999@gmail.com! I'll try to respond as soon as I can.
