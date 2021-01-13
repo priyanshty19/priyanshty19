@@ -39,8 +39,21 @@
 ### 🤝🏻 &nbsp;Want to Connect?
 
 <p align="center">
-<a href="https://twitter.com/PriyanshTyagi17"><i class="fab fa-twitter"></i></a>
-<a href="https://www.linkedin.com/in/priyansh-t-3336b1168"><i class="fab fa-linkedin"></i></a>
-<a href="https://github.com/priyanshty19"><i class="fab fa-github"></i></a>
-<a href="https://www.instagram.com/prxyxnsh"><i class="fab fa-instagram"></i></a>
-<a href="https://www.facebook.com/priyansh.tyagi.180"><i class="fab fa-facebook-f"></i></a>
+
+### 🤝🏻 Want to Connect?
+<p align="center">
+<a href="https://www.instagram.com/prxyxnsh">
+  <img align="left" alt="Priyansh's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />
+</a>
+<a href="https://github.com/priyanshty1">
+  <img align="left" alt="Priyansh's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
+</a>
+<a href="https://www.linkedin.com/in/priyansh-t-3336b1168">
+  <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
+</a>
+<a href="https://twitter.com/PriyanshTyagi17">
+  <img align="left" alt="Priyansh's Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
+</a>
+<a href="https://www.facebook.com/priyansh.tyagi.180">
+  <img align="left" alt="Priyansh's Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409943.svg"  class="white" />
+</a>
