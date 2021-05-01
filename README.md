@@ -36,10 +36,6 @@
 </a>
 </p>
 
-### 🤝🏻 &nbsp;Want to Connect?
-
-<p align="center">
-
 ### 🤝🏻 Want to Connect?
 <p align="center">
 <a href="https://www.instagram.com/prxyxnsh">
