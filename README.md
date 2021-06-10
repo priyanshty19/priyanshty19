@@ -36,6 +36,9 @@
 </a>
 </p>
 
+[![Priyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=priyanshty19&theme=react-dark)](https://github.com/priyanshty19)
+
+
 ### 🤝🏻 Want to Connect?
 <p align="center">
 <a href="https://www.instagram.com/prxyxnsh">
