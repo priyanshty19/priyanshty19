@@ -42,17 +42,17 @@
 ### 🤝🏻 Want to Connect?
 <p align="center">
 <a href="https://www.instagram.com/prxyxnsh">
-  <img align="left" alt="Priyansh's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" />
+  <img align="left" alt="Priyansh's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="https://github.com/priyanshty1">
-  <img align="left" alt="Priyansh's GitHub" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/270/270798.svg" />
+  <img align="left" alt="Priyansh's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 </a>
 <a href="https://www.linkedin.com/in/priyansh-t-3336b1168">
-  <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" />
+  <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://twitter.com/PriyanshTyagi17">
-  <img align="left" alt="Priyansh's Twitter" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409937.svg" />
+  <img align="left" alt="Priyansh's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
 <a href="https://www.facebook.com/priyansh.tyagi.180">
-  <img align="left" alt="Priyansh's Facebook" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1409/1409943.svg"  class="white" />
+  <img align="left" alt="Priyansh's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"  class="white" />
 </a>
