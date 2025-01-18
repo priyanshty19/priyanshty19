@@ -1,31 +1,41 @@
 <img alt="" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Priyansh Tyagi</h2>
 
-
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡  &nbsp;I have always been obsessed with the idea of using software to solve practical problems\
-🎓 &nbsp;I'm an Engineering Physics Sophomore at Delhi Technological University.\
-🌱 &nbsp;I'm on track for learning more about Machine Learning, Artificial Intelligence, Web Development and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Photography and Music as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion about advancements in technology.\
-✉️ &nbsp;You can contact me via email at priyansht1999@gmail.com! I'll try to respond as soon as I can.
+💡  &nbsp;I'm a **Business Analyst** with a passion for solving complex problems using data-driven insights and analytics tools.  
+🚀  &nbsp;I am deeply inclined toward **Product Management**, with expertise in managing **product timelines**, **project management**, and **team collaboration** to deliver impactful solutions.  
+📊  &nbsp;Currently working at **PwC**, focusing on **data migration**, **privacy compliance**, and **workflow automation**.  
+🎓  &nbsp;I hold a degree in **Engineering Physics** with a minor in **Computer Science** from Delhi Technological University.  
+🌱  &nbsp;I am expanding my knowledge in **Big Data**, **Advanced Analytics**, and **Product Management methodologies** to drive business growth.  
+✍️  &nbsp;Outside work, I enjoy working out, playing the guitar, and exploring advancements in technology.  
+💬  &nbsp;Feel free to connect for discussions on **data analytics, product management, big data**, or **business strategy**.  
+✉️  &nbsp;You can reach me at **priyansht1999@gmail.com**—I'd love to connect!
 
-### 🛠 &nbsp;Tech Stacks
+---
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime_Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=Mathworks&logoColor=FF9800)
+### 🛠 &nbsp;Technical Skills
+
+#### Programming & Analytics Tools  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=blue)&nbsp;  
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;  
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=yellow)&nbsp;  
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;  
+![Excel](https://img.shields.io/badge/-excel-05122A?style=flat&logo=excel%20for%20)&nbsp;  
+
+
+#### Business Intelligence & Visualization  
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoftexcel&logoColor=green)&nbsp;  
+![Azure](https://img.shields.io/badge/-Azure%20ML-05122A?style=flat&logo=microsoftazure&logoColor=007ACC)&nbsp;  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  
+
+#### Project & Product Management  
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;  
+![Asana](https://img.shields.io/badge/-Asana-05122A?style=flat&logo=asana)&nbsp;  
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;  
+![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)&nbsp;  
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -36,23 +46,40 @@
 </a>
 </p>
 
-[![Priyansh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=priyanshty19&theme=react-dark)](https://github.com/priyanshty19)
+---
 
+### 🏆 &nbsp;Key Projects
 
-### 🤝🏻 Want to Connect?
+- **Product Timeline Optimization**  
+  Led the planning and execution of project timelines for a cross-functional product development team. Ensured alignment across teams by implementing efficient workflows, fostering collaboration, and addressing
+  bottlenecks to enhance delivery efficiency.  
+
+- **Big Data Analytics for Business Insights**  
+  Spearheaded the design and implementation of data pipelines to process and analyze complex datasets. Collaborated with stakeholders to translate business objectives into actionable insights, supporting
+  strategic decision-making.
+
+- **Cohort & Retention Analysis**  
+  Conducted in-depth analysis of customer behavior during my internship at Virohan, identifying patterns and trends to develop strategies for improving user retention and engagement.  
+
+- **Business Process Automation**  
+  Designed and implemented automated reporting systems using tools like Power BI and Tableau, enabling real-time tracking of key performance indicators and optimizing operational workflows for better decision
+  making.  
+
+---
+
+### 🤝🏻 &nbsp;Want to Connect?
+
 <p align="center">
 <a href="https://www.instagram.com/prxyxnsh">
   <img align="left" alt="Priyansh's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
-<a href="https://github.com/priyanshty1">
+<a href="https://github.com/priyanshty19">
   <img align="left" alt="Priyansh's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
 </a>
-<a href="https://www.linkedin.com/in/priyansh-t-3336b1168">
+<a href="https://www.linkedin.com/in/priyanshtyagi">
   <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://twitter.com/PriyanshTyagi17">
-  <img align="left" alt="Priyansh's Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
+<a href="https://x.com/priyansht1999">
+  <img align="left" alt="Priyansh's X" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
 </a>
-<a href="https://www.facebook.com/priyansh.tyagi.180">
-  <img align="left" alt="Priyansh's Facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png"  class="white" />
-</a>
+</p>
