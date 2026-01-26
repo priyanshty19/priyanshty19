@@ -1,85 +1,64 @@
-<img alt="" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Priyansh Tyagi</h2>
+<img alt="" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+<h2>Hey there! I'm Priyansh Tyagi</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 About Me
 
-💡  &nbsp;I'm a **Business Analyst** with a passion for solving complex problems using data-driven insights and analytics tools.  
-🚀  &nbsp;I am deeply inclined toward **Product Management**, with expertise in managing **product timelines**, **project management**, and **team collaboration** to deliver impactful solutions.  
-📊  &nbsp;Currently working at **PwC**, focusing on **data migration**, **privacy compliance**, and **workflow automation**.  
-🎓  &nbsp;I hold a degree in **Engineering Physics** with a minor in **Computer Science** from Delhi Technological University.  
-🌱  &nbsp;I am expanding my knowledge in **Big Data**, **Advanced Analytics**, and **Product Management methodologies** to drive business growth.  
-✍️  &nbsp;Outside work, I enjoy working out, playing the guitar, and exploring advancements in technology.  
-💬  &nbsp;Feel free to connect for discussions on **data analytics, product management, big data**, or **business strategy**.  
-✉️  &nbsp;You can reach me at **priyansht1999@gmail.com**—I'd love to connect!
+💡 &nbsp;I’m a **Product Manager** with 2+ years of experience building **fintech and platform products**, focused on conversion, decision systems, and scalable user journeys.  
+🚀 &nbsp;Currently working as **Deputy Product Manager at Paisabazaar**, owning end-to-end loan journeys and platform-level partner integrations across multiple lenders.  
+📈 &nbsp;I work heavily with **funnels, metrics, and data-led insights** to improve conversion and optimize complex user flows.  
+🧠 &nbsp;Strong interest in **decision engines, recommendation systems, and credit-led fintech products**.  
+🏗 &nbsp;Comfortable translating business problems into **clear PRDs, workflows, APIs, and success metrics**, while collaborating closely with engineering and design teams.  
+🎓 &nbsp;B.Tech in **Engineering Physics** (Minor in Computer Engineering) from **Delhi Technological University**.  
+⚡ &nbsp;Previously at **PwC India**, where I built a strong foundation in structured problem-solving, data analysis, and execution at scale.  
+💬 &nbsp;Always happy to chat about **product management, fintech, analytics, platforms, or startup ideas**.  
+✉️ &nbsp;Reach me at **priyansht1999@gmail.com**
 
 ---
 
-### 🛠 &nbsp;Technical Skills
+### 🛠 Product & Technical Skills
 
-#### Programming & Analytics Tools  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;  
+#### Product Management  
+![Product Strategy](https://img.shields.io/badge/-Product%20Strategy-05122A?style=flat)&nbsp;  
+![PRDs](https://img.shields.io/badge/-PRDs-05122A?style=flat)&nbsp;  
+![User Journeys](https://img.shields.io/badge/-User%20Journeys-05122A?style=flat)&nbsp;  
+![Funnel Optimization](https://img.shields.io/badge/-Funnel%20Optimization-05122A?style=flat)&nbsp;  
+![Agile](https://img.shields.io/badge/-Agile%20%26%20Scrum-05122A?style=flat)&nbsp;  
+
+#### Data & Analytics  
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql&logoColor=blue)&nbsp;  
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;  
-![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi&logoColor=yellow)&nbsp;  
+![Python](https://img.shields.io/badge/-Python%20(Analytics)-05122A?style=flat&logo=python)&nbsp;  
+![GA](https://img.shields.io/badge/-Google%20Analytics-05122A?style=flat&logo=googleanalytics)&nbsp;  
+![MS Clarity](https://img.shields.io/badge/-MS%20Clarity-05122A?style=flat)&nbsp;  
 ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;  
-![Excel](https://img.shields.io/badge/-excel-05122A?style=flat&logo=excel%20for%20)&nbsp;  
+![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=powerbi)&nbsp;  
 
-
-#### Business Intelligence & Visualization  
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-05122A?style=flat&logo=microsoftexcel&logoColor=green)&nbsp;  
-![Azure](https://img.shields.io/badge/-Azure%20ML-05122A?style=flat&logo=microsoftazure&logoColor=007ACC)&nbsp;  
+#### Platform & Tools  
+![APIs](https://img.shields.io/badge/-API%20Integrations-05122A?style=flat)&nbsp;  
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;  
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;  
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;  
 
-#### Project & Product Management  
-![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;  
-![Asana](https://img.shields.io/badge/-Asana-05122A?style=flat&logo=asana)&nbsp;  
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;  
-![Confluence](https://img.shields.io/badge/-Confluence-05122A?style=flat&logo=confluence)&nbsp;  
+---
+
+### 🚀 Featured Projects
+
+- **Credit Card Recommendation Engine**  
+  Designed a rule-based recommendation system using a 3-layer funnel (eligibility → comparison → ranking) to surface best-fit credit cards based on income, credit score, and spending behavior. Focused on explainable logic and decision clarity.
+
+- **Loan Journey Optimization (Fintech Platform)**  
+  Owned unified loan journeys up to pre-BRE stage, enabling multi-offer visibility and improving conversion through funnel analysis and targeted UX changes.
+
+- **Platform Partner Integrations**  
+  Defined PRDs and workflows for lender integrations across multiple financial partners, ensuring scalability, data consistency, and smooth user experiences.
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### 🤝 Let’s Connect
 
 <p align="center">
-<a href="https://github.com/priyanshty19">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=priyanshty19&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=priyanshty19&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
----
-
-### 🏆 &nbsp;Key Projects
-
-- **Product Timeline Optimization**  
-  Led the planning and execution of project timelines for a cross-functional product development team. Ensured alignment across teams by implementing efficient workflows, fostering collaboration, and addressing
-  bottlenecks to enhance delivery efficiency.  
-
-- **Big Data Analytics for Business Insights**  
-  Spearheaded the design and implementation of data pipelines to process and analyze complex datasets. Collaborated with stakeholders to translate business objectives into actionable insights, supporting
-  strategic decision-making.
-
-- **Cohort & Retention Analysis**  
-  Conducted in-depth analysis of customer behavior during my internship at Virohan, identifying patterns and trends to develop strategies for improving user retention and engagement.  
-
-- **Business Process Automation**  
-  Designed and implemented automated reporting systems using tools like Power BI and Tableau, enabling real-time tracking of key performance indicators and optimizing operational workflows for better decision
-  making.  
-
----
-
-### 🤝🏻 &nbsp;Want to Connect?
-
-<p align="center">
-<a href="https://www.instagram.com/prxyxnsh">
-  <img align="left" alt="Priyansh's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
-</a>
-<a href="https://github.com/priyanshty19">
-  <img align="left" alt="Priyansh's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />
-</a>
-<a href="https://www.linkedin.com/in/priyanshtyagi">
-  <img align="left" alt="Priyansh's LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-<a href="https://x.com/priyansht1999">
-  <img align="left" alt="Priyansh's X" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />
-</a>
+<a href="https://www.instagram.com/prxyxnsh"><img width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
+<a href="https://github.com/priyanshty19"><img width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" /></a>
+<a href="https://www.linkedin.com/in/priyanshtyagi"><img width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
+<a href="https://x.com/priyansht1999"><img width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" /></a>
 </p>
