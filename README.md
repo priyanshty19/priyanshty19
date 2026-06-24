@@ -5,7 +5,7 @@
 
 ---
 
-Product Manager with 2+ years in fintech, currently at **[Paisabazaar](https://www.paisabazaar.com)** — India's largest financial marketplace. I own the end-to-end loan journey, drive lender integrations, and work at the intersection of funnels, data, and engineering.
+Product Manager with 2+ years in fintech.
 
 Outside work, I build full-stack products end-to-end — because understanding how things get made makes me a sharper PM.
 
