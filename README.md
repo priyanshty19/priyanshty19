@@ -18,6 +18,7 @@ Outside work, I build full-stack products end-to-end — because understanding h
 | &nbsp; | Project | Description | Status |
 |---|---|---|---|
 | 🟢 | [**MyFinGrid**](https://myfingrid.com) | Full-stack personal finance platform — credit card intelligence (120+ cards), AI bank email parsing, SIP goal engine, group expense splits. 7 modules, 230 unit tests, deployed on Vercel. | **Live** |
+| 🟢 | [**Sip Stories**](https://mysipstories.com) | India's anonymous drinking-culture community. Find your people, swap your pours | **Live** |
 | 🟡 | **MARC** | Private project in active development | **In Dev** |
 | 🔵 | [**PlaceStacks**](https://github.com/priyanshty19/PlaceStacks) | AI-powered trip itinerary planner for India · React + Express + Gemini + Google Maps | **In Dev** |
 | 🔵 | [**personal-yt**](https://github.com/priyanshty19/personal-yt) | 100% local macOS YouTube Music controller · no backend, no telemetry, credentials never leave your Mac | **In Dev** |
