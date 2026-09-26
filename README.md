@@ -5,7 +5,7 @@
 
 ---
 
-Product Manager with 2+ years in fintech.
+Product Manager with 3+ years in fintech & consulting.
 
 Outside work, I build full-stack products end-to-end — because understanding how things get made makes me a sharper PM.
 
